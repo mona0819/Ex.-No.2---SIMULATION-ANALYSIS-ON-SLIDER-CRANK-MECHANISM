@@ -43,9 +43,30 @@
 
 ![image](https://github.com/Sellakumar1987/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/113594316/188cba1a-fe54-4549-a6e5-3bb6b8d7b120)
 
-## Output
-<img width="1108" height="682" alt="image" src="https://github.com/user-attachments/assets/c47ccbd6-ff5e-456e-8a4b-b3cd540701e6" />
+## Input:
+<img width="1920" height="1080" alt="Screenshot (78)" src="https://github.com/user-attachments/assets/2625c54f-c085-40a1-b58a-f18226d4abdf" />
 
+## Output
+<img width="1920" height="1080" alt="Screenshot (79)" src="https://github.com/user-attachments/assets/687b0be3-26ca-4f70-b8f5-d8bb6ab160ca" />
+
+## Explanation: 
+```
+This experiment shows how fast each link moves when the input link rotates.
+
+r1 is fixed (ground)
+
+r2 is the input crank with given angular velocity ω₂
+
+r3 (coupler) and r4 (rocker) move due to r2
+
+For a given input angle θ₂ and angular speed ω₂, the simulation calculates:
+
+ω₃, ω₄ → angular velocities of coupler and rocker
+
+V₂, V₃, V₄ → linear velocities of the links
+
+The velocity diagram graphically shows the direction and magnitude of velocities.
+```
 
 ### Name: Mohana Priya D
 ### Register Number: 25016734
